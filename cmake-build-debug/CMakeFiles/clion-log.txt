@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/user/CLionProjects/foodOrdering
+-- Configuring done
+CMake Error: Cannot determine link language for target "encapsulation".
+CMake Error: CMake can not determine linker language for target: encapsulation
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

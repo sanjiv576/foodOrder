@@ -1,0 +1,6 @@
+/Users/user/CLionProjects/foodOrdering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/user/CLionProjects/foodOrdering/cmake-build-debug/CMakeFiles/myDatabase.dir
+/Users/user/CLionProjects/foodOrdering/cmake-build-debug/CMakeFiles/encapsulation.dir
+/Users/user/CLionProjects/foodOrdering/cmake-build-debug/CMakeFiles/exp.dir
+/Users/user/CLionProjects/foodOrdering/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user/CLionProjects/foodOrdering/cmake-build-debug/CMakeFiles/foodOrdering.dir
